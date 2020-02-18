@@ -1,0 +1,103 @@
+.App {
+  margin: 60px;
+  font-family: "Circular-Book";
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.name {
+  margin-top: 260px;
+  text-align: center;
+  top: 25%;
+  width:100%;
+  color: #E7C0FF;
+  font-size: 50px;
+}
+
+.biography{
+  margin-top: 50px;
+  text-align: center; 
+  width:100%;
+  color: #FFA1CE;
+  font-size: 35px;
+}
+
+.hey{
+  position: absolute; 
+  top: 150%;
+  width:100%;
+  color: #FFA1CE;
+  font-size: 45px;
+  float: left;
+  margin-left: 230px;
+}
+
+.aboutme{
+  text-align: center;
+  position: absolute; 
+  top: 150%;
+  width:100%;
+}
+
+.experience{
+  text-align: center;
+  position: absolute; 
+  color: #FFA1CE;
+  font-size: 45px;
+  top: 280%;
+  width:100%
+}
+
+.nativefinance{
+  margin-top: 135%;
+}
+
+.addquire{
+  margin-top: 150%
+}
+
+.projects{
+  text-align: center;
+  position: absolute; 
+  top: 430%;
+  width:100%;
+  color: #FFA1CE;
+  font-size: 45px;
+}
+
+.bbt{
+  text-align: center;
+  position: absolute; 
+  top: 450%;
+  width:100%
+}
+
+.bottom{
+  text-align: center;
+  position: absolute; 
+  top: 620%;
+  width:100%;
+  color: #FFA1CE;
+  font-size: 30px;
+}
+
+.consult{
+  text-align: center;
+  position: absolute; 
+  top: 630%;
+  width:100%;
+  font-size: 20px;
+}
+
+.contact{
+  text-align: center;
+  position: absolute; 
+  top: 640%;
+  width:100%;
+  font-size: 14px;
+}
+
+

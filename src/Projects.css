@@ -1,0 +1,21 @@
+.Projects {
+  display: inline-block;
+  margin: 10px;
+}
+
+.proj-photo {
+  width: 500px;
+  height: auto;
+  float: right;
+  margin-right: 80px;
+}
+
+.proj-text {
+  width: 50%;
+  float: left;
+  margin-left: 80px;
+  margin-top:110px;
+  vertical-align: middle;
+  font-size: 25px
+}
+
